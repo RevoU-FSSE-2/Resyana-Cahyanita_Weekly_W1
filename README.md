@@ -9,13 +9,16 @@ This website is assigned to make a simple website based 2 weeks modules and stud
 <li>Header
   <ul dir = "auto">
   <li>Nav Bar</li>
- <li>Main</li>
+  </ul>
+</li>
+ <li>Main
   <ul dir = "auto">
   <li>Home Section</li>
   <li>Contact Me</li>
-  <li>Footer</li>
-   </ul>
+  </ul>
 </li>
+  <li>Footer</li>
+
   
 <h1>Features</h1>
 Im using 3 features based on 2 weeks class.
